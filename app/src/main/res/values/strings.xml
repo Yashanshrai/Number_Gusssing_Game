@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number_gussing_game</string>
+    <string name="info">Please select number of digits.
+        The number of digits that I kept in my mind and number
+        of digits you choice will be the same .
+        Also never forget  you have 10 right .
+    </string>
+</resources>
